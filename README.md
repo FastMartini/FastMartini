@@ -31,11 +31,11 @@ I build full-stack products end to end, from React front ends to FastAPI service
 
 | | |
 |---|---|
-| **Languages** | <img src="assets/skills/languages.svg" alt="Python, TypeScript, JavaScript, Java, C, HTML, CSS" /> |
-| **Frontend** | <img src="assets/skills/frontend.svg" alt="React, Vite, Expo, Chrome Extensions" /> <br> React Native · Chrome Extensions |
-| **Backend & Data** | <img src="assets/skills/backend.svg" alt="Node.js, FastAPI, REST APIs (Swagger), PostgreSQL, SQLite" /> <br> JDBC |
-| **AI / ML** | <img src="assets/skills/ai.svg" alt="OpenAI Codex, Claude Code, Gemini API, Google ADK, scikit-learn, spaCy, Pandas, NumPy" /> <br> AI Agents · Prompt Engineering |
-| **Cloud & Tools** | <img src="assets/skills/cloud.svg" alt="Git, GitHub, Google Cloud, AWS, Solana" /> |
+| **Languages** | <img src="https://raw.githubusercontent.com/FastMartini/FastMartini/main/assets/skills/languages.svg" alt="Python, TypeScript, JavaScript, Java, C, HTML, CSS" /> |
+| **Frontend** | <img src="https://raw.githubusercontent.com/FastMartini/FastMartini/main/assets/skills/frontend.svg" alt="React, Vite, Expo, Chrome Extensions" /> <br> React Native · Chrome Extensions |
+| **Backend & Data** | <img src="https://raw.githubusercontent.com/FastMartini/FastMartini/main/assets/skills/backend.svg" alt="Node.js, FastAPI, REST APIs (Swagger), PostgreSQL, SQLite" /> <br> JDBC |
+| **AI / ML** | <img src="https://raw.githubusercontent.com/FastMartini/FastMartini/main/assets/skills/ai.svg" alt="OpenAI Codex, Claude Code, Gemini API, Google ADK, scikit-learn, spaCy, Pandas, NumPy" /> <br> AI Agents · Prompt Engineering |
+| **Cloud & Tools** | <img src="https://raw.githubusercontent.com/FastMartini/FastMartini/main/assets/skills/cloud.svg" alt="Git, GitHub, Google Cloud, AWS, Solana" /> |
 
 ### 📌 Experience & Highlights
 
