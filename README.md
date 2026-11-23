@@ -37,13 +37,6 @@ I build full-stack products end to end, from React front ends to FastAPI service
 | **AI / ML** | <img src="https://raw.githubusercontent.com/FastMartini/FastMartini/main/assets/skills/ai.svg" alt="OpenAI Codex, Claude Code, Gemini API, Google ADK, scikit-learn, spaCy, Pandas, NumPy" /> <br> AI Agents · Prompt Engineering |
 | **Cloud & Tools** | <img src="https://raw.githubusercontent.com/FastMartini/FastMartini/main/assets/skills/cloud.svg" alt="Git, GitHub, Google Cloud, AWS, Solana" /> |
 
-### 📌 Experience & Highlights
-
-| Role | Organization | When |
-|---|---|---|
-| Tech Fellow | CodePath | |
-| Python Instructor | | |
-| Hackathon Builder | [Devpost projects](https://devpost.com/FastMartini) | |
 
 <div align="center">
 
